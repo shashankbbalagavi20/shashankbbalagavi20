@@ -22,21 +22,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🗜️ [MultiCompress](https://github.com/shashankbbalagavi20/MultiCompress)  
-> A modular compression library in C++ using **Huffman coding** and **RLE**  
-- Built reusable APIs for file compression  
-- Achieved ~35% file size reduction  
-- 90%+ test coverage with GTest
-
-### 🧵 [TinyKernel](https://github.com/shashankbbalagavi20/tiny_kernel)  
-> A preemptive thread scheduler simulation in C++  
-- Implements **priority-based scheduling** and **context switching**  
-- Reinforces core OS-level concepts in a self-contained simulation
-
----
-
 ## 🌱 Currently Learning
 
 - Writing high-performance modern C++ code
